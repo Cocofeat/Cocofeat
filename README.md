@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Ke Zou (Coco)
 
 - 🔭 I’m currently pursing Ph.D. in Sichuan University.
-- 🌱 I’m currently focusing on medical image analysis with uncertainty estimation.
-- 👯 I’m looking to collaborate on trustworthy multi-modality learning with uncertainty estimation.
-- ⚡ I'm looking for Postdoc/Research fellow in 2024.
+- 🌱 I’m currently focusing on __medical image analysis__ with __uncertainty estimation__.
+- 👯 I’m looking to collaborate on __trustworthy multi-modality learning__ with uncertainty estimation.
+- ⚡ I'm looking for __Postdoc/Research fellow__ in 2024.
 - 📫 How to reach me:  
       - Google Scholar: [Ke Zou](https://scholar.google.com/citations?user=fRvi7zkAAAAJ&hl=zh-CN).\
       - Email: kezou18@163.com; kezou8@gmail.com)  
