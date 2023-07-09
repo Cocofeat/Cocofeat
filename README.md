@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ke Zou (Coco)
+### Hi World 👋 I'm Ke Zou (Coco)
 
 - 🔭 I’m currently pursing Ph.D. in Sichuan University.
 - 🌱 I’m currently focusing on __medical image analysis__ with __uncertainty estimation__.
