@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on __Trustworthy multi-modality learning__ with uncertainty estimation.
 - 📫 How to reach me:  
       - Google Scholar: [Ke Zou](https://scholar.google.com/citations?user=fRvi7zkAAAAJ&hl=zh-CN).\
-      - Email: kezou18@163.com; kezou8@gmail.com)  
   
 <!--
 **Cocofeat/Cocofeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
